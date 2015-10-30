@@ -7,7 +7,8 @@
     // Override point for customization after application launch.
     
     NSLog(@"hhhhce测试。。。。");
-    
+    NSLog(@"hhhhce测试。。。。");
+    NSLog(@"hhhhce测试。。。。");
     
     [self customizeAppearance];
     
