@@ -5,6 +5,10 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    NSLog(@"hhhhce测试。。。。");
+    
+    
     [self customizeAppearance];
     
     return YES;
