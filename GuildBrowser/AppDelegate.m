@@ -12,6 +12,9 @@
     NSLog(@"hhhhce测试。。。。");
     NSLog(@"hhhhce测试。。。。");
     NSLog(@"hhhhce测试。。。。");
+    NSLog(@"hhhhce测试。。。。");
+    NSLog(@"hhhhce测试。。。。");
+    
     
     [self customizeAppearance];
     
