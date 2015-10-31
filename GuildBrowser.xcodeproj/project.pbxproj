@@ -409,6 +409,11 @@
 				LastTestingUpgradeCheck = 0700;
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Charlie Fulton";
+				TargetAttributes = {
+					CB9FDC3A15E9872D00B3713E = {
+						DevelopmentTeam = 9GT7E28KP9;
+					};
+				};
 			};
 			buildConfigurationList = CB9FDC3515E9872D00B3713E /* Build configuration list for PBXProject "GuildBrowser" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -617,7 +622,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -631,7 +636,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
