@@ -409,11 +409,6 @@
 				LastTestingUpgradeCheck = 0700;
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Charlie Fulton";
-				TargetAttributes = {
-					CB9FDC3A15E9872D00B3713E = {
-						DevelopmentTeam = 9GT7E28KP9;
-					};
-				};
 			};
 			buildConfigurationList = CB9FDC3515E9872D00B3713E /* Build configuration list for PBXProject "GuildBrowser" */;
 			compatibilityVersion = "Xcode 3.2";
