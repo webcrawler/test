@@ -617,7 +617,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn;
+				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -631,7 +631,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GuildBrowser/GuildBrowser-Prefix.pch";
 				INFOPLIST_FILE = "GuildBrowser/GuildBrowser-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn;
+				PRODUCT_BUNDLE_IDENTIFIER = com.737.batteryrun2.cn1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
