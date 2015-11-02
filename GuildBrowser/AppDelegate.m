@@ -14,7 +14,7 @@
     NSLog(@"hhhhce测试。。。。");
     NSLog(@"hhhhce测试。。。。");
     NSLog(@"hhhhce测试。。。。");
-    
+    NSLog(@"Travis CI测试。。。。");
     
     [self customizeAppearance];
     
